@@ -13,3 +13,4 @@
   <div <p><H3><b>Sesión 3: Funciones - Julia</b></div>  
   En este segundo notebook se presentan aspectos básicos de programación asociados la creación de funciones. Para acceder al notebook editable da clic en el icono de Binder.
 
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wavallejol/ChemJulia/main?labpath=Sesi%C3%B3n3_Funciones_Julia.ipynb)

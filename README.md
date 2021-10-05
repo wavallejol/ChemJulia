@@ -4,3 +4,6 @@
   En este primer notebook se presentan aspectos básicos de programación en Julia, como la asignación de variables y manejo de strings. Para acceder al notebook editable da clic en el icono de Binder.
  
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wavallejol/ChemJulia/main?labpath=Sesi%C3%B3n1_Intro_Julia.ipynb)
+ 
+ <div <p><H3><b>Sesión 2: Introducción - Julia</b></div>  
+  En este segundo notebook se presentan aspectos básicos de programación asociados la creación de bucles y condicionales. Para acceder al notebook editable da clic en el icono de Binder.

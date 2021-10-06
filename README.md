@@ -13,6 +13,11 @@
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wavallejol/ChemJulia/main?labpath=Sesio%CC%81n2_Intro_Julia.ipynb)
  
   <div <p><H3><b>Sesión 3: Funciones - Julia</b></div>  
-  En este segundo notebook se presentan aspectos básicos de programación asociados la creación de funciones. Para acceder al notebook editable da clic en el icono de Binder.
+  En este tercero notebook se presentan aspectos básicos de programación asociados la creación de funciones. Para acceder al notebook editable da clic en el icono de Binder.
 
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wavallejol/ChemJulia/main?labpath=Sesi%C3%B3n3_Funciones_Julia.ipynb)
+ 
+   <div <p><H3><b>Sesión 4: Graficas - Julia</b></div>  
+  En este cuarto notebook se presentan aspectos básicos de programación asociados la creación de graficas en Julia. Para acceder al notebook editable da clic en el icono de Binder.
+ 
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wavallejol/ChemJulia/main?labpath=Sesi%C3%B3n4_Graficas_Julia.ipynb)
